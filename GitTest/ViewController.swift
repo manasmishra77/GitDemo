@@ -20,7 +20,7 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     func doSome() {
-        print("11")
+        //print("11")
     }
 
 
